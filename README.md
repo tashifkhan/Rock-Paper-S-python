@@ -1,5 +1,4 @@
 # Rock Paper Scissors Game
-### ~Tashif
 
 ## Introduction
 The classic game of ‘Rock Paper Scissors’ is played between two players in which each player simultaneously forms one of three shapes with their outstretched hand. These shapes are "rock", "paper", and "scissors". In this project, we have digitized this classic game, allowing players to face off against a computer bot in two modes: **Singleplayer** and **Multiplayer**.

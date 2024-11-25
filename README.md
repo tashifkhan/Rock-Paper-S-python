@@ -67,4 +67,3 @@ python rock_paper_scissors.py
 - ASCII art used in the game was sourced from [gist.github.com](https://gist.github.com/wynand1004/b5c521ea8392e9c6bfe101b025c39abe).
 
 
-This README file covers the game introduction, modes, rules, and setup instructions. It also includes the key parts of the code for easy reference.
